@@ -15,12 +15,18 @@
     "url": "https://github.com/AyushG3112/json-indexer-searcher/issues"
   },
   "homepage": "https://github.com/AyushG3112/json-indexer-searcher#readme",
-  "description": "",
+  "description": "A basic utility to index large JSON arrays",
   "devDependencies": {
     "@types/node": "^8.0.9",
     "typescript": "^2.4.1"
   },
   "dependencies": {
     "javascript-type-checker": "^0.2.1"
-  }
+  },
+  "keywords": [
+    "indexing",
+    "json",
+    "array",
+    "search"
+  ]
 }
